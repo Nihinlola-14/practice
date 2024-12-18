@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: red;
+    font-family:  Helvetica;
+    line-height: 40px;
+    line-gap-override: 20px;
+
+
+}
+.green{
+    color: green;
+}
+#purple{
+    color: purple;
+}
+p{
+    font size: 32px;
+
+}
+h1{
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+button{
+    padding: 16px;
+    color: aquamarine;
+    background-color: blue;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+}
+h2{
+    border: 1px solid black;
+    height: 500px;
+    width: 500px;
+    padding: 20px;
+
+}

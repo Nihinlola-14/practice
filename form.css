@@ -1,0 +1,16 @@
+form{
+    text-align: center;
+    padding-top: 20px;
+}
+.form-group{
+    padding: 10px 20px;
+    border-radius: 8px;
+
+
+}
+.checkbox{
+    padding-bottom: 20px;
+}
+.button{
+    padding-top: 20px;
+}

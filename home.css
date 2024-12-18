@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, sans-serif;
+}
+
+/* navbar */
+header{
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.rightnav{
+    display: flex;
+    gap: 20px;
+}
+.links{
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+}
+.links a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    letter-spacing: 0.6px;
+}
+.navbuttons button{
+    padding: 8px 12px;
+    border: 0.5px solid blue;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+/* hero section */
+section{
+    display: flex;
+    padding: 100px;
+    justify-content: space-between;
+}
+.herosectionleft h1{
+    font-size: 50px;
+    line-height: 56px;
+
+}
+.herosectionleft p {
+line-height: 30px;
+padding-bottom: 20px;
+}
+.herosectionleft button{
+    padding: 8px 12px;
+    color: #ffff;
+    background-color: blue;
+    border: 0.5px solid blue;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+
+
+
